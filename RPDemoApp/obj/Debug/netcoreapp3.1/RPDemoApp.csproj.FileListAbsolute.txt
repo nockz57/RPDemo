@@ -133,3 +133,5 @@ C:\Users\mphet\source\home\RPDemo\RPDemoApp\bin\Debug\netcoreapp3.1\runtimes\uni
 C:\Users\mphet\source\home\RPDemo\RPDemoApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\mphet\source\home\RPDemo\RPDemoApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\mphet\source\home\RPDemo\RPDemoApp\obj\Debug\netcoreapp3.1\RPDemoApp.csprojAssemblyReference.cache
+C:\Users\mphet\source\home\RPDemo\RPDemoApp\obj\Debug\netcoreapp3.1\Razor\Pages\Orders\Display.cshtml.g.cs
+C:\Users\mphet\source\home\RPDemo\RPDemoApp\obj\Debug\netcoreapp3.1\Razor\Pages\Food\List.cshtml.g.cs
