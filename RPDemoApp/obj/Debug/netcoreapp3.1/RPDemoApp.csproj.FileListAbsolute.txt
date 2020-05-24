@@ -135,3 +135,4 @@ C:\Users\mphet\source\home\RPDemo\RPDemoApp\bin\Debug\netcoreapp3.1\runtimes\win
 C:\Users\mphet\source\home\RPDemo\RPDemoApp\obj\Debug\netcoreapp3.1\RPDemoApp.csprojAssemblyReference.cache
 C:\Users\mphet\source\home\RPDemo\RPDemoApp\obj\Debug\netcoreapp3.1\Razor\Pages\Orders\Display.cshtml.g.cs
 C:\Users\mphet\source\home\RPDemo\RPDemoApp\obj\Debug\netcoreapp3.1\Razor\Pages\Food\List.cshtml.g.cs
+C:\Users\mphet\source\home\RPDemo\RPDemoApp\obj\Debug\netcoreapp3.1\Razor\Pages\Orders\Delete.cshtml.g.cs
