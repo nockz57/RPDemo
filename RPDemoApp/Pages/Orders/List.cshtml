@@ -1,0 +1,44 @@
+﻿@page
+@model RPDemoApp.Pages.Orders.ListModel
+@{
+    ViewData["Title"] = "List";
+}
+
+<h1>List of Orders</h1>
+@if (@Model.Orders is null)
+{
+    <h4>The are no orders at the moment.</h4>
+}
+else
+{
+    <table class="table table-striped">
+        <thead class="thead-dark">
+            <tr>
+                <th>Order Name</th>
+                <th>Order Date</th>
+                <th>Food</th>
+                <th>Quantity</th>
+                <th>Total</th>
+                <th>View</th>
+                <th>Delete</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var order in Model.Orders)
+            {
+                <tr>
+                    <td>@order.OrderName</td>
+                    <td>@order.OrderDate</td>
+                    <td>
+                        @order.FoodId
+                    </td>
+                    <td>@order.Quantity</td>
+                    <td>@string.Format("{0:C}", order.Total)</td>
+                    <td>View</td>
+                    <td>Delete</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
